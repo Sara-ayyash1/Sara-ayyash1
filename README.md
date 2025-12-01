@@ -1,5 +1,5 @@
 <div align="center" width="50">
-### 👋 Hi, I'm **Sara Ayyash**  
+  👋 Hi, I'm Sara Ayyash
 **Web Developer & Application Programmer**  
 Frontend • Backend • UI/UX Design  
 
