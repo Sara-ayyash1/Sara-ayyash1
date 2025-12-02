@@ -1,7 +1,8 @@
 <div align="center" width="50">
-  👋 Hi, I'm Sara Ayyash
-**Web Developer & Application Programmer**  
-Frontend • Backend • UI/UX Design  
+👋 Hi, I'm Sara Ayyash
+🎓 Software Engineering Graduate
+💻 Asp.NET Core Developer | Full-stack developer
+🌍 Based in Gaza, Palestine
 
 <details>
 <p><strong><summary>Busy coding & vibing to:</summary></strong></p>
