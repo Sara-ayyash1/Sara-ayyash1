@@ -1,8 +1,8 @@
 <div align="center" width="50">
-👋 Hi, I'm Sara Ayyash
-🎓 Software Engineering Graduate
-💻 Asp.NET Core Developer | Full-stack developer
-🌍 Based in Gaza, Palestine
+<h1>👋 Hi, I'm Sara Ayyash</h1>
+<h1>🎓 Software Engineering Graduate</h1>
+<h1>💻 Asp.NET Core Developer | Full-stack developer</h1>
+<h1>🌍 Based in Gaza, Palestine</h1>
 
 </div>
 
