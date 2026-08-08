@@ -42,3 +42,11 @@ AJAX live search · MySQL · AWS EC2 deployment
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-ayyash1&theme=default&hide_border=true" width="48%" />
 
 </div>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-ayyash1&theme=default&hide_border=true" width="60%" />
+
+</div>
