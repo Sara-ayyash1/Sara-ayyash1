@@ -1,66 +1,44 @@
-<div align="center" width="50">
-<h1>👋 Hi, I'm Sara Ayyash</h1>
-<h1>🎓 Software Engineering Graduate</h1>
-<h1>💻 Asp.NET Core Developer | Full-stack developer</h1>
-<h1>🌍 Based in Gaza, Palestine</h1>
+<div align="center">
+
+# Hi, I'm Sara Ayyash 👋
+
+### Full-Stack Developer | ASP.NET Core & Django/Python
+📍 Gaza, Palestine
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Building+clean%2C+scalable+web+apps;ASP.NET+Core+%7C+Django+%7C+REST+APIs;Turning+ideas+into+deployed+products" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-ayyash-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara420561730@gmail.com)
 
 </div>
 
 <hr>
 
-## 🚀 Tech Stack & Tools
+### 🛠 Tech Stack
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,html,css,js,mysql,sqlite,git,vscode,aws" />
+</p>
 
-### **Frontend Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+<hr>
 
-### **Backend Development**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
+### 📌 Featured Projects
 
-### **Database**
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+**🏠 NestMatch**
+Django-based roommate matching platform · team project
+OTP auth flow · identity verification · admin moderation · deployed on AWS EC2
 
-### **Currently Learning**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+**🎯 Interview Pass**
+Django capstone with Google Gemini AI integration
+AJAX live search · MySQL · AWS EC2 deployment
 
-### **Methodologies**
-- Object-Oriented Programming  
-- RESTful API Development  
-- Project Management  
+<hr>
 
-### **Development Environments**
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+<div align="center">
 
-### **Design Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
+### 📊 GitHub Stats
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sara-ayyash1&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-ayyash1&theme=default&hide_border=true" width="48%" />
 
-```dart
-// tools_I_use organized by Sara Ayash
-
-class About extends Me { 
-  const myTools = {  
-    "Frontend" : { "Flutter", "React", "HTML", "CSS", "JavaScript", "TypeScript" },
-    "Backend" : { "C#", "ASP.NET Core", "REST API" },
-    "Database" : { "SQL", "Firebase", "SQLite" },
-    "Designing" : { "Figma", "Adobe XD", "Photoshop" },
-    "Learning" : { "Java", "TypeScript" },
-    "Environments" : { "Visual Studio", "VS Code", "Git" }
-  };
-}
+</div>
