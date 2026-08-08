@@ -38,7 +38,7 @@ AJAX live search · MySQL · AWS EC2 deployment
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sara-ayyash1&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sara-ayyash1&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-ayyash1&theme=default&hide_border=true" width="48%" />
 
 </div>
